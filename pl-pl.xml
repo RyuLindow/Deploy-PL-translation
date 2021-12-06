@@ -4,361 +4,361 @@
     <key alias="forms">Forms</key>
   </area>
   <area alias="formsDashboard">
-    <key alias="yourForms">Your forms</key>
-    <key alias="showMore">Show more</key>
-    <key alias="entries">Entries</key>
-    <key alias="newVersion">There is a new version available</key>
-    <key alias="installOverlayTitle">Congratulations</key>
-    <key alias="installOverlayDescription">You've just installed Umbraco Forms - Let's create your first form</key>
-    <key alias="emptyOverlayTitle">Create a form</key>
-    <key alias="emptyOverlayDescription">You do not have any forms setup yet, how about creating one now?</key>
-    <key alias="createAForm">Create a form</key>
-    <key alias="newVersionTitle">There is a new version available</key>
-    <key alias="newVersionDescription">You can now install Umbraco Forms</key>
-    <key alias="upgradeNow">Upgrade now</key>
-    <key alias="downloading">Downloading and upgrading forms...</key>
-    <key alias="invalidLicense">Invalid license</key>
-    <key alias="invalidLicenseValidFor">Your current Forms license is only valid for:</key>
-    <key alias="reconfigure">Please re-configure your license below.</key>
-    <key alias="trialTitle">Thank you for trying out Umbraco Forms</key>
-    <key alias="trialDescription">To continue using Umbraco Forms, you must purchase a license, or use an existing license</key>
-    <key alias="configureLicense">Configure existing license</key>
-    <key alias="buyLicenseTitle">Buying a license</key>
+    <key alias="yourForms">Twoje formularze</key>
+    <key alias="showMore">Pokaż więcej</key>
+    <key alias="entries">Wpisy</key>
+    <key alias="newVersion">Nowa wersja jest dostępna</key>
+    <key alias="installOverlayTitle">Gratulacje</key>
+    <key alias="installOverlayDescription">Właśnie zainstalowałeś/aś Umbraco Forms - Stwórz Swój pierwszy formularz</key>
+    <key alias="emptyOverlayTitle">Stwórz formularz</key>
+    <key alias="emptyOverlayDescription">Nie masz jeszcze skonfigurowanych formularzy, co powiesz na utworzenie go teraz?</key>
+    <key alias="createAForm">Stwórz formularz</key>
+    <key alias="newVersionTitle">Dostępna jest nowa wersja</key>
+    <key alias="newVersionDescription">Możesz teraz zainstalować Umbraco Forms</key>
+    <key alias="upgradeNow">Uaktualnij teraz</key>
+    <key alias="downloading">Pobieranie i aktualizowanie formularzy...</key>
+    <key alias="invalidLicense">Nieprawidłowa licencja</key>
+    <key alias="invalidLicenseValidFor">Twoja aktualna licencja Forms jest ważna tylko dla:</key>
+    <key alias="reconfigure">Skonfiguruj ponownie swoją licencję poniżej.</key>
+    <key alias="trialTitle">Dziękujemy za wypróbowanie Umbraco Forms</key>
+    <key alias="trialDescription">Aby nadal korzystać z Umbraco Forms, musisz kupić licencję lub użyć istniejącej licencji</key>
+    <key alias="configureLicense">Skonfiguruj istniejącą licencję</key>
+    <key alias="buyLicenseTitle">Kupowanie licencji</key>
     <key alias="buyLicenseCopy">
       <![CDATA[
         <p>
-          It only takes <strong>a few minutes to buy a license</strong> for Umbraco Forms and your <strong>license is instantly delivered</strong>.
+          Kupienie licencji</strong> do Umbraco Forms zajmuje tylko <strong>kilka minut Twoja <strong>licencja jest natychmiast dostarczana</strong>.
         </p>
         <p>
-          The steps are:
+          Wykonaj następujące kroki:
           <ol>
-            <li>Click the buy button below</li>
-            <li>Checkout with Credit Card (or invoice)</li>
-            <li>Configure the license inside Umbraco Forms and you're up and running</li>
+             <li>Kliknij przycisk kup poniżej</li>
+             <li>Zapłać za pomocą karty kredytowej (lub faktury)</li>
+             <li>Skonfiguruj licencję Umbraco Forms i gotowe</li>
           </ol>
         </p>
       ]]>
-    </key>
-    <key alias="buyLink">Buy Umbraco Forms</key>
+   </key>
+    <key alias="buyLink">Kup Umbraco Forms</key>
     <key alias="buyLicenseFAQs">
       <![CDATA[
         <h4>FAQ:</h4>
-        <h5>What does it cost?</h5>
-        <p>Pricing starts at &euro;209 and is a one time fee (no subscription).</p>
-        <h5>What does a license cover?</h5>
-        <p>A license covers a single domain and will also work on all subdomains. It also includes two additional development domains.</p>
-        <h5>Can I add additional domains to the license?</h5>
-        <p>Yes, additional domains can be added. You can purchase additional domains to your license from your account on Umbraco.com.</p>
-        <h5>More questions?</h5>
+        <h5>Ile kosztują?</h5>
+        <p>Ceny zaczynają się od &euro;209 i są jednorazową opłatą (bez subskrypcji).</p>
+        <h5>Co obejmuje licencja?</h5>
+        <p>Licencja obejmuje jedną domenę i będzie działać również na wszystkich subdomenach. Zawiera również dwie dodatkowe domeny programistyczne.</p>
+        <h5>Czy mogę dodać dodatkowe domeny do licencji?</h5>
+        <p>Tak, można dodać dodatkowe domeny. Możesz kupić dodatkowe domeny do swojej licencji ze swojego konta na Umbraco.com.</p>
+        <h5>Więcej pytań?</h5>
         <p>
-          Don't worry, there's <a class="green-link" href="https://our.umbraco.com/Documentation/Add-ons/The-Licensing-model/index-v7?utm_source=core&utm_medium=dashboard&utm_content=buy-faq-link&utm_campaign=formslicensing">more details in the documentation</a> and you're also more than welcome to <a class="green-link" href="https://umbraco.com/contact-us?utm_source=core&utm_medium=dashboard&utm_content=contact-us-link&utm_campaign=formslicensing">get in touch with us</a>. We usually respond within a couple of hours.
+          Nie martw się, w dokumentacji <a class="green-link" href="https://our.umbraco.com/Documentation/Add-ons/The-Licensing-model/index-v7?utm_source=core&utm_medium=dashboard&utm_content=buy-faq-link&utm_campaign=formslicensing">jest więcej szczegółów</a> i możesz się <a class="green-link" href="https://umbraco.com/contact-us?utm_source=core&utm_medium=dashboard&utm_content=contact-us-link&utm_campaign=formslicensing">z nami skontaktować.</a>. Zwykle odpowiadamy w ciągu kilku godzin..
         </p>      
       ]]>
-    </key>
-    <key alias="configureLicenseTitle">Configure an Umbraco Forms license</key>
+   </key>
+    <key alias="configureLicenseTitle">Skonfiguruj licencje Umbraco Forms</key>
     <key alias="configureLicenseCopy">
-      If you've already bought Umbraco Forms, you can automatically retrieve and configure your license here. Simply enter your umbraco.com credentials below and we'll
-      find your license.
-    </key>
+      Jeśli kupiłeś już Umbraco Forms, możesz automatycznie pobrać i skonfigurować swoją licencję tutaj. Po prostu wprowadź swoje dane uwierzytelniające do umbraco.com poniżej, a my
+      znajdziemy twoją licencję.
+   </key>
     <key alias="configureLicenseFAQs">
       <![CDATA[
-        <h4>FAQ:</h4>
-        <h5>I don't know what my credentials are?</h5>
+        <h4>Najczęściej zadawane pytania:</h4>
+        <h5>Nie wiem, jakie są moje dane uwierzytelniające?</h5>
         <p>
-          It's a combination of your e-mail and password from when you placed your order. You can always <a class="green-link" href="https://shop.umbraco.com/profile/retrieve-your-password/">reset your password here</a>.
+          Jest to połączenie Twojego adresu e-mail i hasła z momentu złożenia zamówienia. Zawsze możesz <a class="green-link" href="https://shop.umbraco.com/profile/retrieve-your-password/">zresetować hasło tutaj</a>.
         </p>
-        <h5>How do I buy a license?</h5>
+        <h5>Jak kupić licencję?</h5>
         <p>
-          If you don't have a license, you can <a class="btn-link green-link" ng-click="vm.status.state = 'buy'">get one from here and only takes a few minutes</a>.
+          Jeśli nie masz licencji, możesz <a class="btn-link green-link" ng-click="vm.status.state = 'buy'">nabyć ją stąd i zajmie to tylko kilka minut< /a>.
         </p>
       ]]>
-    </key>
-    <key alias="findLicenses">Find Licenses</key>
-    <key alias="invalidEmail">Invalid email or password</key>
-    <key alias="noLicensesAvailable">No Umbraco Forms licenses available on this account</key>
-    <key alias="availableLicensesTitle">Available Licenses</key>
-    <key alias="foundLicenses">Found</key>
-    <key alias="foundLicensesAccount">on the account</key>
-    <key alias="noDomainsAssigned">Has no domains assigned</key>
-    <key alias="setDomain">Please set a domain on this license</key>
-    <key alias="configureAndInstall">Configure and Install</key>
-    <key alias="installLicense">Install this license</key>
-    <key alias="validDomains">Valid domains</key>
-    <key alias="licenseValidOnDomain">This license is valid on the curent domain</key>
-    <key alias="licenseNotValidOnDomain">This license is not valid on the curent domain</key>
+   </key>
+    <key alias="findLicenses">Znajdź licencję</key>
+    <key alias="invalidEmail">Nieprawidłowy e-mail lub hasło</key>
+    <key alias="noLicensesAvailable">Brak licencji Umbraco Forms dostępnych na tym koncie</key>
+    <key alias="availableLicensesTitle">Dostępne licencje</key>
+    <key alias="foundLicenses">Znaleziono</key>
+    <key alias="foundLicensesAccount">na koncie</key>
+    <key alias="noDomainsAssigned">Nie ma przypisanych domen</key>
+    <key alias="setDomain">Ustaw domenę na tej licencji</key>
+    <key alias="configureAndInstall">Konfiguruj i instaluj</key>
+    <key alias="installLicense">Zainstaluj tę licencję</key>
+    <key alias="validDomains">Prawidłowe domeny</key>
+    <key alias="licenseValidOnDomain">Ta licencja jest ważna na bieżącej domenie</key>
+    <key alias="licenseNotValidOnDomain">Ta licencja nie jest ważna w aktualnej domenie</key>
     <key alias="plainTextPasswordWarning">
       <![CDATA[
-        <h3 class="warning">Warning: your configuration settings are set to save plain text passwords!</h3>
-        <p>When you use a password field on any of your forms, the data your visitors will enter in that field will be stored in plain text. This is a security issue and should be avoided.</p>
-        <p>To fix this issue, you can go in to your <span class="code">~/App_Plugins/UmbracoForms/UmbracoForms.config</span> file and set the key <span class="code">SavePlainTextPasswords</span> to <span class="code">False</span>.</p>
-        <p>After updating this setting, make sure to recycle the application pool for the site for the new setting to become active.</p>
-        <p>Note: password values will still be passed on to workflows, regardless of the setting in <span class="code">UmbracoForms.config</span></p>
+        <h3 class="warning">Ostrzeżenie: ustawienia konfiguracji są ustawione na zapisywanie haseł w postaci zwykłego tekstu!</h3>
+        <p>Gdy użyjesz pola hasła w dowolnym formularzu, dane wprowadzone przez odwiedzających w tym polu będą przechowywane w postaci zwykłego tekstu. Jest to kwestia bezpieczeństwa i należy tego unikać.</p>
+        <p>Aby rozwiązać ten problem, musisz przejść do pliku <span class="code">~/App_Plugins/UmbracoForms/UmbracoForms.config</span> i ustawić klucz <span class="code">SavePlainTextPasswords</span> na <span class="code">False</span>.</p>
+        <p>Po zaktualizowaniu tego ustawienia pamiętaj o zrestartowaniu aplikacji, aby nowe ustawienia stało się aktywne.</p>
+        <p>Uwaga: wartości haseł będą nadal przekazywane do przepływów pracy, niezależnie od ustawienia w <span class="code">UmbracoForms.config</span></p>
       ]]>
-    </key>
-    <key alias="currentVersion">Current installed version of Umbraco Forms:</key>
-    <key alias="licenseConfiguredNotificationTitle">License configured</key>
-    <key alias="licenseConfiguredNotificationMessage">Umbraco Forms has been configured for use on this website.</key>
-    <key alias="insufficientPermissionsError">Insufficient Permissions</key>
-    <key alias="insufficientPermissionsMessage">You do not have permissions to create and manage forms.</key>
-    <key alias="insufficientPermissionsUpgradeMessage">Only Admin users have the ability to upgrade Umbraco Forms.</key>
-    <key alias="licensedDomains">Licensed domains</key>
+   </key>
+    <key alias="currentVersion">Aktualnie zainstalowana wersja Umbraco Forms:</key>
+    <key alias="licenseConfiguredNotificationTitle">Licencja skonfigurowana</key>
+    <key alias="licenseConfiguredNotificationMessage">Umbraco Forms zostały skonfigurowane do użytku na tej stronie.</key>
+    <key alias="insufficientPermissionsError">Niewystarczające uprawnienia</key>
+    <key alias="insufficientPermissionsMessage">Nie masz uprawnień do tworzenia formularzy i zarządzania nimi.</key>
+    <key alias="insufficientPermissionsUpgradeMessage">Tylko użytkownicy Admin mają możliwość uaktualniania Umbraco Forms.</key>
+    <key alias="licensedDomains">Licencjonowane domeny</key>
   </area>
   <area alias="formCopy">
-    <key alias="title">Copying form '%0%'</key>
-    <key alias="enterName">Enter a name for the copied form</key>
-    <key alias="alsoCopyWorkflows">Also copy workflows?</key>
-    <key alias="copyToNewFolder">Copy to a new folder?</key>
-    <key alias="selectLocation">Select the location for copied form</key>
+    <key alia="title">Kopiowanie formularza '%0%' </key>
+    <key alia="enterName">Podaj nazwę skopiowanego formularza </key>
+    <key alia="alsoCopyWorkflows">Kopiujesz także przepływy pracy? </key>
+    <key alia="copyToNewFolder">Skopiować do nowego folderu? </key>
+    <key alia="selectLocation">Wybierz lokalizację skopiowanego formularza </key>
   </area>
   <area alias="formCreate">
-    <key alias="title">Create a new form or folder</key>
-    <key alias="emptyForm">Empty form</key>
-    <key alias="emptyFormDescription">Starting from scratch</key>
-    <key alias="folder">Folder</key>
-    <key alias="folderDescription">Used to organize forms</key>
-    <key alias="enterFolderName">Enter a folder name</key>
+    <key alia="title">Utwórz nowy formularz lub folder </key>
+    <key alia="emptyForm">Pusty formularz </key>
+    <key alia="emptyFormDescription">Zaczynając od zera </key>
+    <key alia="folder">Folder </key>
+    <key alia="folderDescription">Używany do organizowania formularzy </key>
+    <key alia="enterFolderName">Podaj nazwę folderu </key>
   </area>
   <area alias="formPermissions">
-    <key alias="accessDeniedTitle">Access denied</key>
+    <key alias="accessDeniedTitle">Brak dostępu</key>
   </area>
   <area alias="formMessages">
-    <key alias="saveErrorMessage">Please check if your settings are valid.</key>
+    <key alia="saveErrorMessage">Sprawdź, czy ustawienia są prawidłowe. </key>
   </area>
   <area alias="formEdit">
-    <key alias="addQuestion">Add question</key>
-    <key alias="groupIsEmpty">Group is empty</key>
-    <key alias="dropQuestionHere">Drop a question here...</key>
-    <key alias="letGo">Yaay.. let go</key>
-    <key alias="pageIsEmpty">Page is empty</key>
-    <key alias="dropGroupHere">Drop a group here...</key>
-    <key alias="addGroup">Add new group</key>
-    <key alias="addPage">Add new page</key>
-    <key alias="pageTitlePlaceholder">Untitled page (optional)</key>
-    <key alias="groupTitlePlaceholder">Untitled group (optional)</key>
-    <key alias="saveFieldFailedTitle">Field failed to save</key>
-    <key alias="accessDeniedMessage">You do not have access to edit this form.</key>
-    <key alias="formSaved">Form saved</key>
-    <key alias="unableToLoadForm">Unable to load form</key>
-    <key alias="helpText">Help text</key>
-    <key alias="editPage">Edit Page</key>
-    <key alias="editGroup">Edit Group</key>
-    <key alias="addQuestion">Add Question</key>
-    <key alias="editQuestion">Edit Question</key>
-    <key alias="workflows">Workflows</key>
+<key alia="addQuestion">Dodaj pytanie </key>
+    <key alia="groupIsEmpty">Grupa jest pusta </key>
+    <key alia="dropQuestionHere">Umieść pytanie tutaj... </key>
+    <key alia="letGo">Yaay .. puść </key>
+    <key alia="pageIsEmpty">Strona jest pusta </key>
+    <key alia="dropGroupHere">Upuść grupę tutaj... </key>
+    <key alia="addGroup">Dodaj nową grupę </key>
+    <key alia="addPage">Dodaj nową stronę </key>
+    <key alia="pageTitlePlaceholder">Strona bez tytułu (opcjonalnie) </key>
+    <key alia="groupTitlePlaceholder">Grupa bez tytułu (opcjonalnie) </key>
+    <key alia="saveFieldFailedTitle">Pole nie zostało zapisane </key>
+    <key alia="accessDeniedMessage">Nie masz dostępu do edycji tego formularza. </key>
+    <key alia="formSaved">Formularz zapisany </key>
+    <key alia="unableToLoadForm">Nie można załadować formularza </key>
+    <key alia="helpText">Tekst pomocy </key>
+    <key alia="editPage">Edytuj stronę </key>
+    <key alia="editGroup">Edytuj grupę </key>
+    <key alia="addQuestion">Dodaj pytanie </key>
+    <key alia="editQuestion">Edytuj pytanie </key>
+    <key alia="workflows">Przepływ pracy </key>
   </area>
   <area alias="formFileUpload">
-    <key alias="allowAllFiles">Allow all files</key>
-    <key alias="allowOnlySpecifiedFiles">Allow only specified files</key>
-    <key alias="predefinedAllowedFileTypes">Predefined allowed file types</key>
-    <key alias="userDefinedAllowedFileTypes">User defined allowed file types</key>
-    <key alias="deleteAllowedFileTypeConfirmationTitle">Confirmation</key>
-    <key alias="deleteAllowedFileTypeConfirmationDescription">Are you sure you want to delete this?</key>
-    <key alias="duplicateFileTypeErrorTitle">File type error</key>
-    <key alias="duplicateFileTypeErrorMessage">Unable to add file type as this is a duplicate.</key>
-    <key alias="pickFile">Pick File</key>
-    <key alias="uploading">Uploading</key>
-    <key alias="currentFile">Current file</key>
+<key alia="allowAllFiles">Zezwól na wszystkie pliki </key>
+    <key alia="allowOnlySpecifiedFiles">Zezwalaj tylko na określone pliki </key>
+    <key alia="predefinedAllowedFileTypes">Wstępnie zdefiniowane dozwolone typy plików </key>
+    <key alia="userDefinedAllowedFileTypes">Dozwolone typy plików zdefiniowane przez użytkownika </key>
+    <key alia="deleteAllowedFileTypeConfirmationTitle">Potwierdzam </key>
+    <key alia="deleteAllowedFileTypeConfirmationDescription">Czy na pewno chcesz to usunąć? </key>
+    <key alia="duplicateFileTypeErrorTitle">Błąd typu pliku </key>
+    <key alia="duplicateFileTypeErrorMessage">Nie można dodać typu pliku, ponieważ jest to duplikat. </key>
+    <key alia="pickFile">Wybierz plik </key>
+    <key alia="uploading">Przesyłanie </key>
+    <key alia="currentFile">Bieżący plik </key>
   </area>
   <area alias="formPrevalues">
-    <key alias="addNewItem">Add new item here</key>
-    <key alias="duplicateErrorTitle">Prevalue error</key>
-    <key alias="duplicateAddErrorMessage">Unable to add value as it would create a duplicate.</key>
-    <key alias="duplicateEditErrorMessage">Unable to edit value as it would create a duplicate.</key>
+    <key alia="addNewItem">Dodaj tutaj nowy element </key>
+    <key alia="duplicateErrorTitle">Błąd wartości wstępnej </key>
+    <key alia="duplicateAddErrorMessage">Nie można dodać wartości, ponieważ spowodowałoby to utworzenie duplikatu. </key>
+    <key alia="duplicateEditErrorMessage">Nie można edytować wartości, ponieważ spowodowałoby to utworzenie duplikatu. </key>
   </area>
   <area alias="formDelete">
-    <key alias="title">Are you sure you want to delete the %0% '%1%'?</key>
-    <key alias="note">Please note this can take lots of time depending on the number of records.</key>
-    <key alias="cannotDeleteFolder">The selected folder cannot be deleted as it is not empty.</key>
-    <key alias="successMessageForForm">Successfully deleted the form.</key>
-    <key alias="failedMessageForForm">Form failed to delete.</key>
-    <key alias="successMessageForFolder">Successfully deleted the folder.</key>
-    <key alias="failedMessageForFolder">Folder failed to delete.</key>
+    <key alia="title">Czy na pewno chcesz usunąć %0% '%1%'? </key>
+    <key alia="note">Pamiętaj, że może to zająć dużo czasu w zależności od liczby wpisów. </key>
+    <key alia="cannotDeleteFolder">Wybrany folder nie może zostać usunięty, ponieważ nie jest pusty. </key>
+    <key alia="successMessageForForm">Pomyślnie usunięto formularz. </key>
+    <key alia="failedMessageForForm">Nie udało się usunąć formularza. </key>
+    <key alia="successMessageForFolder">Pomyślnie usunięto folder. </key>
+    <key alia="failedMessageForFolder">Nie udało się usunąć folderu. </key>
   </area>
   <area alias="formEntries">
-    <key alias="title">%0% Entries</key>
-    <key alias="filterEntries">Filter entries...</key>
-    <key alias="selectedRowsDescription">%0% of %1% selected</key>
-    <key alias="export">Export</key>
-    <key alias="chooseExportFormat">Choose a format to export form records to</key>
-    <key alias="entriesNotStored">Currently submissions are not stored in the database.</key>
-    <key alias="enableStoreEntries">To enable this, go to form settings and activate the "Store Records" feature.</key>
-    <key alias="noEntriesInRange">No submissions added yet in this date range.</key>
-    <key alias="noEntriesInRangeDetail">We couldn't find any submissions, are you sure you published the form? Or try expanding the date range.</key>
-    <key alias="noEntriesMatchingSearch">We couldn't find any submissions matching your search.</key>
-    <key alias="noEntriesMatchingSearchDetail">Try searching for something else, maybe you're lucky next time.</key>
-    <key alias="selectedEntryPaging">Entry %0% of %1%</key>
-    <key alias="previousEntry">Previous entry</key>
-    <key alias="nextEntry">Next entry</key>
-    <key alias="accessDeniedMessage">You do not have access to view this form's entries.</key>
-    <key alias="executeCompleteTitle">Executed action</key>
-    <key alias="executeSuccessMessage">Successfully executed action %0%</key>
-    <key alias="executeErrorMessage">Failed to execute action %0% due to error: %1%.</key>
-    <key alias="entryDetails">Entry details</key>
-    <key alias="closeDetails">Close details</key>
-    <key alias="submittedOn">Submitted on</key>
-    <key alias="updatedOn">Updated on</key>
-    <key alias="fromPage">From page</key>
-    <key alias="member">Member</key>
-    <key alias="state">State</key>
-    <key alias="uniqueId">Unique ID</key>
+    <key alia="title"> %0% wpisów </key>
+    <key alia="filterEntries">Filtruj wpisy ... </key>
+    <key alia="selectedRowsDescription"> %0% lub %1% zaznaczono </key>
+    <key alia="export">Eksportuj </key>
+    <key alia="chooseExportFormat">Wybierz format do eksportu wpisów do formularza</key>
+    <key alia="entriesNotStored">Obecnie wpisy nie są przechowywane w bazie danych. </key>
+    <key alia="enableStoreEntries">Aby to włączyć, przejdź do ustawień formularza i aktywuj funkcję "Przechowuj wpisy". </key>
+    <key alia="noEntriesInRange">Nie dodano jeszcze żadnych wpisów w tym zakresie dat. </key>
+    <key alia="noEntriesInRangeDetail">Nie znaleźliśmy żadnych wpisów, czy na pewno opublikowałeś formularz? Lub spróbuj rozszerzyć zakres dat. </key>
+    <key alia="noEntriesMatchingSearch">Nie mogliśmy znaleźć żadnych wpisów pasujących do Twojego wyszukiwania. </key>
+    <key alia="noEntriesMatchingSearchDetail">Spróbuj wyszukać coś innego, może następnym razem będziesz miał szczęście. </key>
+    <key alia="selectedEntryPaging">Wpis %0% lub%1% </key>
+    <key alia="previousEntry">Poprzedni wpis </key>
+    <key alia="nextEntry">Następny wpis </key>
+    <key alia="accessDeniedMessage">Nie masz dostępu do przeglądania wpisów do tego formularza. </key>
+    <key alia="executeCompleteTitle">Wykonana akcja </key>
+    <key alia="executeSuccessMessage">Pomyślnie wykonane działanie %0% </key>
+    <key alia="executeErrorMessage">Nie udało się wykonać akcji %0% z powodu błędu: %1%. </key>
+    <key alia="entryDetails">Szczegóły wpisu </key>
+    <key alia="closeDetails">Zamknij szczegóły </key>
+    <key alia="submittedOn">Przesłano dnia </key>
+    <key alia="updatedOn">Zaktualizowano </key>
+    <key alia="fromPage">Ze strony </key>
+    <key alia="członek">Członek </key>
+    <key alia="stan">Stan </key>
+    <key alia="uniqueId">Unikalny identyfikator </key>
   </area>
   <area alias="formMove">
-    <key alias="title"><![CDATA[Select the folder to move <strong>%0%</strong> to in the tree structure below.]]></key>
-    <key alias="successMessage"><![CDATA[<strong>%0%</strong> was moved underneath <strong>%1%</strong>.]]></key>
-    <key alias="successNotificationHeader">Moved</key>
-    <key alias="successNotificationDescriptionForForm">The form was moved to the selected location.</key>
-    <key alias="successNotificationDescriptionForFolder">The folder was moved to the selected location.</key>
+    <key alias="title"><![CDATA[Wybierz folder, do którego chcesz przenieść <strong>%0%</strong> w poniższej strukturze drzewa treści.]]></key>
+    <key alias="successMessage"><![CDATA[<strong>%0%</strong> został przeniesiony pod <strong>%1%</strong>.]]></key>
+    <key alia="successNotificationHeader">Przeniesiony </key>
+    <key alia="successNotificationDescriptionForForm">Formularz został przeniesiony do wybranej lokalizacji. </key>
+    <key alia="successNotificationDescriptionForFolder">Folder został przeniesiony do wybranej lokalizacji. </key>
   </area>
   <area alias="formRename">
-    <key alias="enterNewName">Enter the new name</key>
-    <key alias="successNotificationHeader">Renamed</key>
-    <key alias="successNotificationDescriptionForFolder">The folder was renamed.</key>
+    <key alias="enterNewName">Wprowadź nową nazwę</key>
+    <key alias="successNotificationHeader">Zmieniono nazwę</key>
+    <key alias="successNotificationDescriptionForFolder">Zmieniono nazwę folderu.</key>
   </area>
   <area alias="formConditions">
-    <key alias="title">Conditions</key>
-    <key alias="enableConditions">Enable conditions</key>
-    <key alias="actionTypeShow">Show</key>
-    <key alias="actionTypeHide">Hide</key>
-    <key alias="logicTypeAll">all</key>
-    <key alias="logicTypeAny">any</key>
-    <key alias="operatorIs">is</key>
-    <key alias="operatorIsNot">is not</key>
-    <key alias="operatorGreaterThen">is greater than</key>
-    <key alias="operatorLessThen">is less than</key>
-    <key alias="operatorContains">contains</key>
-    <key alias="operatorStartsWith">starts with</key>
-    <key alias="operatorEndsWith">ends with</key>
-    <key alias="thisFieldSetIf">this fieldset if</key>
-    <key alias="ofTheFollowingMatch">of the following match</key>
-    <key alias="selectField">Select field</key>
-    <key alias="addCondition">Add condition</key>
-    <key alias="pageConditionsDescription">Optionally define conditions for the display of the "Submit" or "Next" button for the page.</key>
+    <key alias="title">Warunki</key>
+    <key alias="enableConditions">Włącz warunki</key>
+    <key alias="actionTypeShow">Pokaż</key>
+    <key alias="actionTypeHide">Ukryj</key>
+    <key alias="logicTypeAll">wszystkie</key>
+    <key alias="logicTypeAny">dowolny</key>
+    <key alias="operatorIs">jest</key>
+    <key alias="operatorIsNot">nie jest</key>
+    <key alias="operatorGreaterThen">jest większy niż</key>
+    <key alias="operatorLessThen">jest mniejszy niż</key>
+    <key alias="operatorContains">zawiera</key>
+    <key alias="operatorStartsWith">zaczyna się od</key>
+    <key alias="operatorEndsWith">kończy się na</key>
+    <key alias="thisFieldSetIf">ten zestaw pól, jeśli</key>
+    <key alias="ofTheFollowingMatch">następującego dopasowania</key>
+    <key alias="selectField">Wybierz pole</key>
+    <key alias="addCondition">Dodaj warunek</key>
+    <key alias="pageConditionsDescription">Opcjonalnie zdefiniuj warunki wyświetlania przycisku „Prześlij” lub „Dalej” dla strony.</key>
     <key alias="pageButtonConditionStatus">
-      <![CDATA[ %0% buttons for this page if <strong>%1%</strong> of the following match:]]>
+      <![CDATA[ %0% przycisków dla tej strony, jeśli <strong>%1%</strong> z następującego dopasowania:]]>
     </key>
     <key alias="fieldsetConditionStatus">
-      <![CDATA[ %0% this group if if <strong>%1%</strong> of the following match:]]>
+      <![CDATA[ %0% tej grupy, jeśli <strong>%1%</strong> z następującego dopasowania:]]>
     </key>
     <key alias="fieldConditionStatus">
-      <![CDATA[ %0% this question if if <strong>%1%</strong> of the following match:]]>
+      <![CDATA[ %0% to pytanie, jeśli <strong>%1%</strong> z następującego dopasowania:]]>
     </key>
   </area>
   <area alias="formThemes">
-    <key alias="noThemesAvailable">No themes available. Add themes to /Views/Partials/Forms/Themes</key>
+    <key alias="noThemesAvailable">Brak dostępnych motywów. Dodaj motywy do /Views/Partials/Forms/Themes</key>
   </area>
   <area alias="formWorkflows">
-    <key alias="workflowNameLabel">Workflow Name</key>
-    <key alias="workflowNameDescription">Give a descriptive name for your workflow</key>
-    <key alias="activeLabel">Active</key>
-    <key alias="activeDescription">Enable or disable the workflow</key>
-    <key alias="includeSensitiveDataLabel">Include Sensitive Data</key>
-    <key alias="includeSensitiveDataDescription">Include sensitive data when executing this workflow?</key>
-    <key alias="submitMessage">Submit message / Go to page</key>
-    <key alias="approve">Approve</key>
-    <key alias="automatic">automatic</key>
-    <key alias="noWorkflowsAdded">No workflows are added</key>
-    <key alias="configureWorkflow">configure workflow</key>
-    <key alias="saveFailedTitle">Workflow failed to save</key>
-    <key alias="closeConfirmationTitle">Confirmation</key>
-    <key alias="closeConfirmationMessage">Changes have been made which have not been saved. Are you sure you wish to close?</key>
-    <key alias="chooseWorkflow">Choose workflow</key>
-    <key alias="onSubmitDescription">We will run these workflows for you when the form is submitted</key>
-    <key alias="onApprove">On Approve</key>
-    <key alias="onApproveDescription">These workflows will run when the entry is approved</key>
-    <key alias="onApproveAutomaticDescription">this happens automatically after the submit event with the current form settings</key>
-    <key alias="defaultWorkflowName">Submit message / Go to page</key>
-    <key alias="defaultWorkflowDescription">Show a message when the form is submitted or go to an Umbraco page</key>
-    <key alias="addWorkflow">Add workflow</key>
-    <key alias="messageOnSubmit">Message on submit</key>
-    <key alias="messageOnSubmitDescription">Show a message when the form is submitted</key>
-    <key alias="goToPage">Go to page</key>
-    <key alias="goToPageDescription">Go to an Umbraco page when the form is submitted</key>
+    <key alias="workflowNameLabel">Nazwa przepływu pracy</key>
+    <key alias="workflowNameDescription">Nadaj opisową nazwę swojemu przepływowi pracy</key>
+    <key alias="activeLabel">Aktywny</key>
+    <key alias="activeDescription">Włącz lub wyłącz przepływ pracy</key>
+    <key alias="includeSensitiveDataLabel">Dołącz dane poufne</key>
+    <key alias="includeSensitiveDataDescription">Dołączyć poufne dane podczas wykonywania tego przepływu pracy?</key>
+    <key alias="submitMessage">Prześlij wiadomość / Przejdź do strony</key>
+    <key alias="approve">Zatwierdź</key>
+    <key alias="automatic">automatyczny</key>
+    <key alias="noWorkflowsAdded">Nie dodano żadnych przepływów pracy</key>
+    <key alias="configureWorkflow">skonfiguruj przepływ pracy</key>
+    <key alias="saveFailedTitle">Nie udało się zapisać przepływu pracy</key>
+    <key alias="closeConfirmationTitle">Potwierdzam</key>
+    <key alias="closeConfirmationMessage">Wprowadzono zmiany, które nie zostały zapisane. Czy na pewno chcesz zamknąć?</key>
+    <key alias="chooseWorkflow">Wybierz przepływ pracy</key>
+    <key alias="onSubmitDescription"> Uruchomimy te przepływy pracy po przesłaniu formularza</key>
+    <key alias="onApprove">Po zatwierdzeniu</key>
+    <key alias="onApproveDescription">Te przepływy pracy zostaną uruchomione po zatwierdzeniu wpisu</key>
+    <key alias="onApproveAutomaticDescription">odbywa się to automatycznie po przesłaniu zdarzenia z bieżącymi ustawieniami formularza</key>
+    <key alias="defaultWorkflowName">Prześlij wiadomość / Przejdź do strony</key>
+    <key alias="defaultWorkflowDescription">Pokaż komunikat po przesłaniu formularza lub przejdź do strony Umbraco</key>
+    <key alias="addWorkflow">Dodaj przepływ pracy</key>
+    <key alias="messageOnSubmit">Wiadomość po przesłaniu</key>
+    <key alias="messageOnSubmitDescription">Pokaż komunikat po przesłaniu formularza</key>
+    <key alias="goToPage">Przejdź do strony</key>
+    <key alias="goToPageDescription">Przejdź do strony Umbraco po przesłaniu formularza</key>
   </area>
   <area alias="fieldSetColumns">
-    <key alias="title">Columns</key>
-    <key alias="setNumber">Set how many columns you wish to have in your group.</key>
-    <key alias="columnNumberDescription">This group currently has %0%.</key>
-    <key alias="addColumn">Add column</key>
+    <key alias="title">Kolumny</key>
+    <key alias="setNumber">Ustaw liczbę kolumn, które chcesz mieć w swojej grupie.</key>
+    <key alias="columnNumberDescription">Ta grupa ma obecnie %0%.</key>
+    <key alias="addColumn">Dodaj kolumnę</key>
   </area>
   <area alias="fieldSettings">
-    <key alias="namePlaceholder">Enter question...</key>
-    <key alias="descriptionPlaceholder">Enter help text...</key>
-    <key alias="requiredLabel">Required label</key>
-    <key alias="chooseAnswerType">Choose answer type</key>
-    <key alias="sensitiveData">Sensitive data</key>
-    <key alias="sensitiveDataDescription">Prevent the data from being viewed and exported if a user doesn't have sufficient permissions.</key>
-    <key alias="sensitiveDataLabel">Yes, this field stores sensitive data</key>
-    <key alias="allowedFileUploadTypes">Allowed file upload types</key>
-    <key alias="prevalues">Prevalues</key>
-    <key alias="prevaluesProvideWithSources">Either provide here a list of options (prevalues) specific for this field, or select a predefined prevalue source.</key>
-    <key alias="prevaluesProvide">Provides a list of options (prevalues) for the field.</key>
-    <key alias="prevaluesItems">Items</key>
-    <key alias="prevaluesSource">Prevalue source</key>
-    <key alias="pressEnterToAdd">Press enter to add a value</key>
-    <key alias="settings">Settings</key>
-    <key alias="mandatory">Mandatory</key>
-    <key alias="enterRegex">Enter a regular expression</key>
-    <key alias="invalidPlaceholder">Enter a field invalid message...</key>
-    <key alias="allowMultipleFileUploads">Allow multiple file uploads</key>
-    <key alias="multipleFilesToggleTextOn">Multiple files allowed</key>
-    <key alias="multipleFilesToggleTextOff">Single file only</key>
+    	<key alias="namePlaceholder">Wprowadź pytanie...</key>
+    <key alias="descriptionPlaceholder">Wprowadź tekst pomocy...</key>
+    <key alias="requiredLabel">Wymagana etykieta</key>
+    <key alias="chooseAnswerType">Wybierz typ odpowiedzi</key>
+    <key alias="sensitiveData">Dane poufne</key>
+    <key alias="sensitiveDataDescription">Zapobiegaj przeglądaniu i eksportowaniu danych, jeśli użytkownik nie ma wystarczających uprawnień.</key>
+    <key alias="sensitiveDataLabel">Tak, to pole przechowuje poufne dane</key>
+    <key alias="allowedFileUploadTypes">Dozwolone typy przesyłania plików</key>
+    <key alias="prevalues">Wartości wstępne</key>
+    <key alias="prevaluesProvideWithSources">Podaj tutaj listę opcji (wartości wstępnych) specyficznych dla tego pola lub wybierz wstępnie zdefiniowane źródło wartości wstępnej.</key>
+    <key alias="prevaluesProvide">Zawiera listę opcji (wartości wstępnych) dla pola.</key>
+    <key alias="prevaluesItems">Pozycje</key>
+    <key alias="prevaluesSource">Źródło wartości wstępnej</key>
+    <key alias="pressEnterToAdd">Naciśnij Enter, aby dodać wartość</key>
+    <key alias="settings">Ustawienia</key>
+    <key alias="mandatory">Obowiązkowe</key>
+    <key alias="enterRegex">Wprowadź wyrażenie regularne</key>
+    <key alias="invalidPlaceholder">Wprowadź wiadomość dla niepoprawej wartości w polu...</key>
+    <key alias="allowMultipleFileUploads">Zezwalaj na przesyłanie wielu plików</key>
+    <key alias="multipleFilesToggleTextOn">Wiele plików jest dozwolone</key>
+    <key alias="multipleFilesToggleTextOff">Tylko jeden plik</key>
   </area>
   <area alias="formSettings">
-    <key alias="storeRecords">Store Records</key>
+    <key alias="storeRecords">Przechowuj wpisy</key>
     <key alias="storeRecordsDescription">
-      Check this box to save submitted records in a database.
-      This will allow you to view and export them from the queries overview.
-      If you don't want to store data (due to policies in your organization), leave the box un-checked.
+      Zaznacz to pole, aby zapisać przesłane wpisy w bazie danych.
+      Umożliwi to przeglądanie i eksportowanie ich z przeglądu zapytań.
+      Jeśli nie chcesz przechowywać danych (ze względu na zasady obowiązujące w Twojej organizacji), pozostaw to pole niezaznaczone.
     </key>
-    <key alias="storeRecordsConfirm">Yes, keep submitted records in a database so they can be viewed and exported later.</key>
-    <key alias="captions">Captions</key>
-    <key alias="captionsDescription">Change the captions for the Submit, Next and Previous buttons.</key>
-    <key alias="captionSubmitButton">'Submit' button label</key>
-    <key alias="captionNextButton">'Next' button label</key>
-    <key alias="captionPreviousButton">'Previous' button label</key>
-    <key alias="styling">Styling</key>
-    <key alias="stylingDescription">Add one or more classes to wrap your form to enable custom styling, disable default styling and load assets with Client Dependency.</key>
-    <key alias="formCssClass">Form CSS class</key>
-    <key alias="disableDefaultStylesheet">Disable default stylesheet</key>
-    <key alias="loadWithClientDependency">Load assets with Client Dependency</key>
-    <key alias="validation">Validation</key>
-    <key alias="validationDescription">Provide better validation messages, hide validation labels and change or disable the required/mandatory marker.</key>
-    <key alias="mandatoryErrorMessage">Mandatory Error Message</key>
-    <key alias="mandatoryErrorMessageDescription">Message to display when a mandatory field was left empty</key>
-    <key alias="invalidErrorMessage">Invalid Error Message</key>
-    <key alias="invalidErrorMessageDescription">Message to display when a field is invalid</key>
-    <key alias="showValidationSummary">Show validation summary</key>
-    <key alias="hideFieldValidationLabels">Hide field validation labels</key>
-    <key alias="markFields">Mark fields</key>
-    <key alias="markFieldsNoIndicator">No Indicator</key>
-    <key alias="markMandatoryFields">Mark Mandatory Fields</key>
-    <key alias="markOptionalFields">Mark Optional Fields</key>
-    <key alias="indicator">Indicator</key>
-    <key alias="changeIndicatorSymbol">Change the mandatory indicator symbol</key>
-    <key alias="autocomplete">Autocomplete</key>
-    <key alias="autocompleteDescription">Add an attribute to control the overall form's autocompletion behaviour.</key>
-    <key alias="autocompleteNone">None</key>
-    <key alias="autocompleteOn">On</key>
-    <key alias="autocompleteOff">Off</key>
-    <key alias="moderation">Moderation</key>
-    <key alias="moderationDescription">Allow form submissions to be post moderated. Most use cases are for publicly shown entries such as blog post comments or submissions for a social campaign.</key>
-    <key alias="enablePostModeration">Enable post moderation</key>
+    <key alias="storeRecordsConfirm">Tak, przechowuj przesłane wpisy w bazie danych, aby można je było później przeglądać i eksportować.</key>
+    <key alias="captions">Tekst przycisków</key>
+    <key alias="captionsDescription">Zmień tekst przycisków Prześlij, Dalej i Poprzedni.</key>
+    <key alias="captionSubmitButton">Etykieta przycisku „Prześlij”</key>
+    <key alias="captionNextButton">Etykieta przycisku „Dalej”</key>
+    <key alias="captionPreviousButton">Etykieta przycisku „Poprzednia”</key>
+    <key alias="styling">Stylowanie</key>
+    <key alias="stylingDescription">Dodaj jedną lub więcej klas, aby otoczyć formularz, aby włączyć niestandardowe style, wyłączyć domyślne style i załadować zasoby za pomocą zależności klienta.</key>
+    <key alias="formCssClass">Klasa CSS formularza</key>
+    <key alias="disableDefaultStylesheet">Wyłącz domyślny arkusz stylów</key>
+    <key alias="loadWithClientDependency">Załaduj zasoby z Client Dependency</key>
+    <key alias="validation">Weryfikacja</key>
+    <key alias="validationDescription">Zapewnij lepsze komunikaty weryfikacyjne, ukryj etykiety weryfikacji i zmień lub wyłącz znacznik wymagany/obowiązkowy.</key>
+    <key alias="mandatoryErrorMessage">Komunikat o błędzie pola obowiązkowego</key>
+    <key alias="mandatoryErrorMessageDescription">Komunikat do wyświetlenia, gdy obowiązkowe pole nie zostało wypełnione</key>
+    <key alias="invalidErrorMessage">Komunikat o błędzie pola z niepoprawną wartością</key>
+    <key alias="invalidErrorMessageDescription">Komunikat do wyświetlenia, gdy pole jest nieprawidłowe</key>
+    <key alias="showValidationSummary">Pokaż podsumowanie weryfikacji</key>
+    <key alias="hideFieldValidationLabels">Ukryj etykiety sprawdzania poprawności pól</key>
+    <key alias="markFields">Zaznacz pola</key>
+    <key alias="markFieldsNoIndicator">Brak wskaźnika</key>
+    <key alias="markMandatoryFields">Zaznacz pola obowiązkowe</key>
+    <key alias="markOptionalFields">Zaznacz pola opcjonalne</key>
+    <key alias="indicator">Wskaźnik</key>
+    <key alias="changeIndicatorSymbol">Zmień obowiązkowy symbol wskaźnika</key>
+    <key alias="autocomplete">Autouzupełnianie</key>
+    <key alias="autocompleteDescription">Dodaj atrybut, aby kontrolować ogólne zachowanie autouzupełniania formularza.</key>
+    <key alias="autocompleteNone">Brak</key>
+    <key alias="autocompleteOn">Włączone</key>
+    <key alias="autocompleteOff">Wyłączone</key>
+    <key alias="moderation">Moderacja</key>
+    <key alias="moderationDescription">Zezwalaj na moderowanie przesłanych formularzy. Większość przypadków użycia dotyczy publicznie wyświetlanych wpisów, takich jak komentarze do postów na blogu lub zgłoszenia do kampanii społecznościowej.</key>
+    <key alias="enablePostModeration">Włącz moderację postów</key>
   </area>
   <area alias="formSecurity">
-    <key alias="saveSuccessTitle">User form security saved</key>
-    <key alias="saveErrorTitle">User form security failed to save</key>
-    <key alias="manageFormsLabel">Manage Forms</key>
-    <key alias="manageFormsDescription">Grant or deny access to managing forms</key>
-    <key alias="manageWorkflowsLabel">Manage Workflows</key>
-    <key alias="manageWorkflowsDescription">Grant or deny access to managing all forms workflow items</key>
-    <key alias="manageDatasourcesLabel">Manage Data Sources</key>
-    <key alias="manageDatasourcesDescription">Grant or deny access to managing any data sources for all forms</key>
-    <key alias="managePrevalueSourcesLabel">Manage Prevalue Sources</key>
-    <key alias="managePrevalueSourcesDescription">Grant or deny access to managing any prevalue sources for all forms</key>
-    <key alias="manageIndividualFormsLabel">Form Security</key>
-    <key alias="manageIndividualFormsDescription">Grant or deny access to individual forms</key>
-    <key alias="formName">Form name</key>
-    <key alias="hasAccess">Has Access</key>
+    <key alias="saveSuccessTitle">Zapisano ustawienia formularza dla użytkownika</key>
+    <key alias="saveErrorTitle">Nie udało się zapisać zabezpieczeń formularza użytkownika</key>
+    <key alias="manageFormsLabel">Zarządzaj formularzami</key>
+    <key alias="manageFormsDescription">Przyznaj lub odmów dostępu do zarządzania formularzami</key>
+    <key alias="manageWorkflowsLabel">Zarządzaj przepływami pracy</key>
+    <key alias="manageWorkflowsDescription">Przyznaj lub odmów dostępu do zarządzania wszystkimi elementami przepływu pracy formularzy</key>
+    <key alias="manageDatasourcesLabel">Zarządzaj źródłami danych</key>
+    <key alias="manageDatasourcesDescription">Przyznaj lub odmów dostępu do zarządzania dowolnymi źródłami danych dla wszystkich formularzy</key>
+    <key alias="managePrevalueSourcesLabel">Zarządzaj źródłami wartości wstępnej</key>
+    <key alias="managePrevalueSourcesDescription">Przyznaj lub odmów dostępu do zarządzania dowolnymi źródłami wartości wstępnych dla wszystkich formularzy</key>
+    <key alias="manageIndividualFormsLabel">Zabezpieczenia formularzy</key>
+    <key alias="manageIndividualFormsDescription">Przyznaj lub odmów dostępu do poszczególnych formularzy</key>
+    <key alias="formName">Nazwa formularza</key>
+    <key alias="hasAccess">Ma dostęp</key>
   </area>
   <area alias="formDataSources">
     <key alias="typeDescription">Select the type of data source</key>
