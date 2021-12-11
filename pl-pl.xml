@@ -9,7 +9,7 @@
     <key alias="entries">Wpisy</key>
     <key alias="newVersion">Nowa wersja jest dostępna</key>
     <key alias="installOverlayTitle">Gratulacje</key>
-    <key alias="installOverlayDescription">Właśnie zainstalowałeś/aś Umbraco Forms - Stwórz Swój pierwszy formularz</key>
+    <key alias="installOverlayDescription">Właśnie zainstalowałeś/aś Umbraco Forms - Stwórz swój pierwszy formularz</key>
     <key alias="emptyOverlayTitle">Stwórz formularz</key>
     <key alias="emptyOverlayDescription">Nie masz jeszcze skonfigurowanych formularzy, co powiesz na utworzenie go teraz?</key>
     <key alias="createAForm">Stwórz formularz</key>
@@ -21,13 +21,13 @@
     <key alias="invalidLicenseValidFor">Twoja aktualna licencja Forms jest ważna tylko dla:</key>
     <key alias="reconfigure">Skonfiguruj ponownie swoją licencję poniżej.</key>
     <key alias="trialTitle">Dziękujemy za wypróbowanie Umbraco Forms</key>
-    <key alias="trialDescription">Aby nadal korzystać z Umbraco Forms, musisz kupić licencję lub użyć istniejącej licencji</key>
+    <key alias="trialDescription">Aby nadal korzystać z Umbraco Forms, musisz kupić licencję lub użyć istniejącej</key>
     <key alias="configureLicense">Skonfiguruj istniejącą licencję</key>
     <key alias="buyLicenseTitle">Kupowanie licencji</key>
     <key alias="buyLicenseCopy">
       <![CDATA[
         <p>
-          Kupienie licencji</strong> do Umbraco Forms zajmuje tylko <strong>kilka minut Twoja <strong>licencja jest natychmiast dostarczana</strong>.
+          Kupienie licencji</strong> do Umbraco Forms zajmuje tylko <strong>kilka minut i Twoja <strong>licencja jest natychmiast dostarczana</strong>.
         </p>
         <p>
           Wykonaj następujące kroki:
@@ -51,19 +51,19 @@
         <p>Tak, można dodać dodatkowe domeny. Możesz kupić dodatkowe domeny do swojej licencji ze swojego konta na Umbraco.com.</p>
         <h5>Więcej pytań?</h5>
         <p>
-          Nie martw się, w dokumentacji <a class="green-link" href="https://our.umbraco.com/Documentation/Add-ons/The-Licensing-model/index-v7?utm_source=core&utm_medium=dashboard&utm_content=buy-faq-link&utm_campaign=formslicensing">jest więcej szczegółów</a> i możesz się <a class="green-link" href="https://umbraco.com/contact-us?utm_source=core&utm_medium=dashboard&utm_content=contact-us-link&utm_campaign=formslicensing">z nami skontaktować.</a>. Zwykle odpowiadamy w ciągu kilku godzin..
+          Nie martw się, w dokumentacji <a class="green-link" href="https://our.umbraco.com/Documentation/Add-ons/The-Licensing-model/index-v7?utm_source=core&utm_medium=dashboard&utm_content=buy-faq-link&utm_campaign=formslicensing">jest więcej szczegółów</a> i możesz się <a class="green-link" href="https://umbraco.com/contact-us?utm_source=core&utm_medium=dashboard&utm_content=contact-us-link&utm_campaign=formslicensing">z nami skontaktować.</a>. Zwykle odpowiadamy w ciągu kilku godzin.
         </p>      
       ]]>
    </key>
     <key alias="configureLicenseTitle">Skonfiguruj licencje Umbraco Forms</key>
     <key alias="configureLicenseCopy">
-      Jeśli kupiłeś już Umbraco Forms, możesz automatycznie pobrać i skonfigurować swoją licencję tutaj. Po prostu wprowadź swoje dane uwierzytelniające do umbraco.com poniżej, a my
+      Jeśli kupiłeś/aś już Umbraco Forms, możesz automatycznie pobrać i skonfigurować swoją licencję tutaj. Po prostu wprowadź swoje dane uwierzytelniające do umbraco.com poniżej, a my
       znajdziemy twoją licencję.
    </key>
     <key alias="configureLicenseFAQs">
       <![CDATA[
         <h4>Najczęściej zadawane pytania:</h4>
-        <h5>Nie wiem, jakie są moje dane uwierzytelniające?</h5>
+        <h5>Nie wiem, jakie są moje dane uwierzytelniające</h5>
         <p>
           Jest to połączenie Twojego adresu e-mail i hasła z momentu złożenia zamówienia. Zawsze możesz <a class="green-link" href="https://shop.umbraco.com/profile/retrieve-your-password/">zresetować hasło tutaj</a>.
         </p>
@@ -85,13 +85,13 @@
     <key alias="installLicense">Zainstaluj tę licencję</key>
     <key alias="validDomains">Prawidłowe domeny</key>
     <key alias="licenseValidOnDomain">Ta licencja jest ważna na bieżącej domenie</key>
-    <key alias="licenseNotValidOnDomain">Ta licencja nie jest ważna w aktualnej domenie</key>
+    <key alias="licenseNotValidOnDomain">Ta licencja nie jest ważna na bieżącej domenie</key>
     <key alias="plainTextPasswordWarning">
       <![CDATA[
         <h3 class="warning">Ostrzeżenie: ustawienia konfiguracji są ustawione na zapisywanie haseł w postaci zwykłego tekstu!</h3>
         <p>Gdy użyjesz pola hasła w dowolnym formularzu, dane wprowadzone przez odwiedzających w tym polu będą przechowywane w postaci zwykłego tekstu. Jest to kwestia bezpieczeństwa i należy tego unikać.</p>
         <p>Aby rozwiązać ten problem, musisz przejść do pliku <span class="code">~/App_Plugins/UmbracoForms/UmbracoForms.config</span> i ustawić klucz <span class="code">SavePlainTextPasswords</span> na <span class="code">False</span>.</p>
-        <p>Po zaktualizowaniu tego ustawienia pamiętaj o zrestartowaniu aplikacji, aby nowe ustawienia stało się aktywne.</p>
+        <p>Po zaktualizowaniu tego ustawienia pamiętaj o zrestartowaniu aplikacji, aby nowe ustawienia stały się aktywne.</p>
         <p>Uwaga: wartości haseł będą nadal przekazywane do przepływów pracy, niezależnie od ustawienia w <span class="code">UmbracoForms.config</span></p>
       ]]>
    </key>
@@ -125,7 +125,7 @@
     <key alia="saveErrorMessage">Sprawdź, czy ustawienia są prawidłowe. </key>
   </area>
   <area alias="formEdit">
-<key alia="addQuestion">Dodaj pytanie </key>
+    <key alia="addQuestion">Dodaj pytanie </key>
     <key alia="groupIsEmpty">Grupa jest pusta </key>
     <key alia="dropQuestionHere">Umieść pytanie tutaj... </key>
     <key alia="letGo">Yaay .. puść </key>
@@ -147,7 +147,7 @@
     <key alia="workflows">Przepływ pracy </key>
   </area>
   <area alias="formFileUpload">
-<key alia="allowAllFiles">Zezwól na wszystkie pliki </key>
+    <key alia="allowAllFiles">Zezwól na wszystkie pliki </key>
     <key alia="allowOnlySpecifiedFiles">Zezwalaj tylko na określone pliki </key>
     <key alia="predefinedAllowedFileTypes">Wstępnie zdefiniowane dozwolone typy plików </key>
     <key alia="userDefinedAllowedFileTypes">Dozwolone typy plików zdefiniowane przez użytkownika </key>
@@ -161,7 +161,7 @@
   </area>
   <area alias="formPrevalues">
     <key alia="addNewItem">Dodaj tutaj nowy element </key>
-    <key alia="duplicateErrorTitle">Błąd wartości wstępnej </key>
+    <key alia="duplicateErrorTitle">Błąd wartości wstępnych </key>
     <key alia="duplicateAddErrorMessage">Nie można dodać wartości, ponieważ spowodowałoby to utworzenie duplikatu. </key>
     <key alia="duplicateEditErrorMessage">Nie można edytować wartości, ponieważ spowodowałoby to utworzenie duplikatu. </key>
   </area>
@@ -183,10 +183,10 @@
     <key alia="entriesNotStored">Obecnie wpisy nie są przechowywane w bazie danych. </key>
     <key alia="enableStoreEntries">Aby to włączyć, przejdź do ustawień formularza i aktywuj funkcję "Przechowuj wpisy". </key>
     <key alia="noEntriesInRange">Nie dodano jeszcze żadnych wpisów w tym zakresie dat. </key>
-    <key alia="noEntriesInRangeDetail">Nie znaleźliśmy żadnych wpisów, czy na pewno opublikowałeś formularz? Lub spróbuj rozszerzyć zakres dat. </key>
+    <key alia="noEntriesInRangeDetail">Nie znaleźliśmy żadnych wpisów, czy na pewno opublikowałeś/aś formularz? Ewentualnie spróbuj rozszerzyć zakres dat. </key>
     <key alia="noEntriesMatchingSearch">Nie mogliśmy znaleźć żadnych wpisów pasujących do Twojego wyszukiwania. </key>
     <key alia="noEntriesMatchingSearchDetail">Spróbuj wyszukać coś innego, może następnym razem będziesz miał szczęście. </key>
-    <key alia="selectedEntryPaging">Wpis %0% lub%1% </key>
+    <key alia="selectedEntryPaging">Wpis %0% lub %1% </key>
     <key alia="previousEntry">Poprzedni wpis </key>
     <key alia="nextEntry">Następny wpis </key>
     <key alia="accessDeniedMessage">Nie masz dostępu do przeglądania wpisów do tego formularza. </key>
@@ -281,7 +281,7 @@
     <key alias="addColumn">Dodaj kolumnę</key>
   </area>
   <area alias="fieldSettings">
-    	<key alias="namePlaceholder">Wprowadź pytanie...</key>
+    <key alias="namePlaceholder">Wprowadź pytanie...</key>
     <key alias="descriptionPlaceholder">Wprowadź tekst pomocy...</key>
     <key alias="requiredLabel">Wymagana etykieta</key>
     <key alias="chooseAnswerType">Wybierz typ odpowiedzi</key>
@@ -290,11 +290,11 @@
     <key alias="sensitiveDataLabel">Tak, to pole przechowuje poufne dane</key>
     <key alias="allowedFileUploadTypes">Dozwolone typy przesyłania plików</key>
     <key alias="prevalues">Wartości wstępne</key>
-    <key alias="prevaluesProvideWithSources">Podaj tutaj listę opcji (wartości wstępnych) specyficznych dla tego pola lub wybierz wstępnie zdefiniowane źródło wartości wstępnej.</key>
+    <key alias="prevaluesProvideWithSources">Podaj tutaj listę opcji (wartości wstępnych) specyficznych dla tego pola lub wybierz wstępnie zdefiniowane źródło wartości wstępnych.</key>
     <key alias="prevaluesProvide">Zawiera listę opcji (wartości wstępnych) dla pola.</key>
     <key alias="prevaluesItems">Pozycje</key>
-    <key alias="prevaluesSource">Źródło wartości wstępnej</key>
-    <key alias="pressEnterToAdd">Naciśnij Enter, aby dodać wartość</key>
+    <key alias="prevaluesSource">Źródło wartości wstępnych</key>
+    <key alias="pressEnterToAdd">Wciśnij Enter, aby dodać wartość</key>
     <key alias="settings">Ustawienia</key>
     <key alias="mandatory">Obowiązkowe</key>
     <key alias="enterRegex">Wprowadź wyrażenie regularne</key>
@@ -315,9 +315,9 @@
     <key alias="captionsDescription">Zmień tekst przycisków Prześlij, Dalej i Poprzedni.</key>
     <key alias="captionSubmitButton">Etykieta przycisku „Prześlij”</key>
     <key alias="captionNextButton">Etykieta przycisku „Dalej”</key>
-    <key alias="captionPreviousButton">Etykieta przycisku „Poprzednia”</key>
+    <key alias="captionPreviousButton">Etykieta przycisku „Poprzedni”</key>
     <key alias="styling">Stylowanie</key>
-    <key alias="stylingDescription">Dodaj jedną lub więcej klas, aby otoczyć formularz, aby włączyć niestandardowe style, wyłączyć domyślne style i załadować zasoby za pomocą zależności klienta.</key>
+    <key alias="stylingDescription">Dodaj jedną lub więcej klas, aby otoczyć formularz, aby włączyć niestandardowe style, wyłączyć domyślne style i załadować zasoby za pomocą Client Dependency.</key>
     <key alias="formCssClass">Klasa CSS formularza</key>
     <key alias="disableDefaultStylesheet">Wyłącz domyślny arkusz stylów</key>
     <key alias="loadWithClientDependency">Załaduj zasoby z Client Dependency</key>
@@ -353,7 +353,7 @@
     <key alias="manageWorkflowsDescription">Przyznaj lub odmów dostępu do zarządzania wszystkimi elementami przepływu pracy formularzy</key>
     <key alias="manageDatasourcesLabel">Zarządzaj źródłami danych</key>
     <key alias="manageDatasourcesDescription">Przyznaj lub odmów dostępu do zarządzania dowolnymi źródłami danych dla wszystkich formularzy</key>
-    <key alias="managePrevalueSourcesLabel">Zarządzaj źródłami wartości wstępnej</key>
+    <key alias="managePrevalueSourcesLabel">Zarządzaj źródłami wartości wstępnych</key>
     <key alias="managePrevalueSourcesDescription">Przyznaj lub odmów dostępu do zarządzania dowolnymi źródłami wartości wstępnych dla wszystkich formularzy</key>
     <key alias="manageIndividualFormsLabel">Zabezpieczenia formularzy</key>
     <key alias="manageIndividualFormsDescription">Przyznaj lub odmów dostępu do poszczególnych formularzy</key>
@@ -377,11 +377,11 @@
     <key alias="accessDeniedMessage">Nie masz dostępu do edycji źródeł danych</key>
   </area>
   <area alias="formPrevalueSources">
-    <key alias="typeDescription">Wybierz typ źródła wartości wstępnej</key>
-    <key alias="deleteConfirm">Czy na pewno chcesz usunąć źródło wartości wstępnej %0%?</key>
-    <key alias="saveSuccessTitle">Zapisano źródło wartości wstępnej</key>
-    <key alias="saveErrorTitle">Nie udało się zapisać źródła wartości wstępnej</key>
-    <key alias="accessDeniedMessage">Nie masz dostępu do edycji źródeł wartości wstępnej</key>
+    <key alias="typeDescription">Wybierz typ źródła wartości wstępnych</key>
+    <key alias="deleteConfirm">Czy na pewno chcesz usunąć źródło wartości wstępnych %0%?</key>
+    <key alias="saveSuccessTitle">Zapisano źródło wartości wstępnych</key>
+    <key alias="saveErrorTitle">Nie udało się zapisać źródła wartości wstępnych</key>
+    <key alias="accessDeniedMessage">Nie masz dostępu do edycji źródeł wartości wstępnych</key>
   </area>
 
   <area alias="formProviderFieldTypes">
@@ -459,7 +459,7 @@
     <key alias="titleAndDescriptionCaptionLabel">Nagłówek</key>
     <key alias="titleAndDescriptionCaptionDescription">Wprowadź nagłówek.</key>
     <key alias="titleAndDescriptionBodyTextLabel">Tekst główny</key>
-    <key alias="titleAndDescriptionBodyTextDescription">Wprowadź tekst kopii.</key>
+    <key alias="titleAndDescriptionBodyTextDescription">Wprowadź tekst.</key>
 
     <key alias="longAnswerName">Długa odpowiedź</key>
     <key alias="longAnswerDescription">Renderuje obszar tekstowy przeznaczony do dłuższych odpowiedzi.</key>
@@ -646,20 +646,20 @@
     <key alias="getValuesFromTextfileTextFileDescription">Plik zawierający wartości wstępne (oddzielone łamaniami linii).</key>
 
     <key alias="umbracoDocumentsName">Dokumenty Umbraco</key>
-    <key alias="umbracoDocumentsDescription">Używa węzłów z określonego źródła jako wartości wstępnych.</key>
-    <key alias="umbracoDocumentsRootNodeLabel">Węzeł główny</key>
-    <key alias="umbracoDocumentsRootNodeDescription">Źródło pobierania węzłów.</key>
+    <key alias="umbracoDocumentsDescription">Używa treści z określonego źródła jako wartości wstępnych.</key>
+    <key alias="umbracoDocumentsRootNodeLabel">Treść główna</key>
+    <key alias="umbracoDocumentsRootNodeDescription">Źródło pobierania treści.</key>
     <key alias="umbracoDocumentsUseCurrentPageLabel">Użyj bieżącej strony jako strony głównej</key>
     <key alias="umbracoDocumentsUseCurrentPageDescription">Nie działa w trybie podglądu.</key>
     <key alias="umbracoDocumentsDocTypeLabel">Typ dokumentu</key>
-    <key alias="umbracoDocumentsDocTypeDescription">Typ węzłów, których chcesz użyć.</key>
+    <key alias="umbracoDocumentsDocTypeDescription">Typ treści, której chcesz użyć.</key>
     <key alias="umbracoDocumentsListGrandChildrenLabel">Wymień wszystkich potomków</key>
     <key alias="umbracoDocumentsListGrandChildrenDescription">Nie ograniczaj się do dzieci, ale uwzględnij także inne poziomy.</key>
     <key alias="umbracoDocumentsOrderByLabel">Uporządkuj według</key>
     <key alias="umbracoDocumentsOrderByDescription">Wybierz sposób uporządkowania listy wartości wstępnych.</key>
 
     <key alias="sQLDatabaseName">Baza danych SQL</key>
-    <key alias="sQLDatabaseDescription">Łączy się z tabelą bazy danych zgodną z OLEDB i tworzy z niej źródło wartości wstępnej.</key>
+    <key alias="sQLDatabaseDescription">Łączy się z tabelą bazy danych zgodną z OLEDB i tworzy z niej źródło wartości wstępnych.</key>
     <key alias="sQLDatabaseConnectionLabel">Ciąg połączenia</key>
     <key alias="sQLDatabaseConnectionDescription">Parametry połączenia zgodne z OleDB.</key>
     <key alias="sQLDatabaseConnectionStringLabel">Ciąg połączenia z pliku web.config</key>
